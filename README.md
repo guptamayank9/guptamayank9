@@ -16,7 +16,6 @@
 
 * 📌 DSA (Java)
 * ⚛️ MERN Stack
-* 🧠 System Design Basics
 
 ---
 
