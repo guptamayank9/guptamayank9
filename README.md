@@ -53,12 +53,12 @@ I'm a Computer Science undergrad at **Barkatullah University Institute of Techno
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,cpp,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,postman&perline=7" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,js,py,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,postman&perline=7" alt="Tech stack icons" />
 </p>
 
 | Area | Skills |
 |---|---|
-| **Languages** | Java, JavaScript, C++, SQL |
+| **Languages** | Java, JavaScript, Python, SQL |
 | **Frontend** | React, HTML5, CSS3, Tailwind CSS |
 | **Backend** | Node.js, Express.js, REST APIs, Socket.IO, JWT |
 | **Databases** | MongoDB, MySQL |
