@@ -23,7 +23,7 @@
 
 I'm a Computer Science undergrad at **Barkatullah University Institute of Technology, Bhopal** (CGPA 8.8), who enjoys turning ideas into working full-stack products.
 
-- 🌐 Frontend Developer Intern at **Welyft (EV Logistics)**, where I built the company's public website with React and Tailwind CSS and worked on SEO
+- 🌐 Experince-> Frontend Developer Intern at **Welyft (EV Logistics)**, where I built the company's public website with React and Tailwind CSS and worked on SEO
 - 🚀 Building real-world MERN projects: AI chat, e-commerce, payments and real-time apps
 - 🧠 Solved **300+ DSA problems** on LeetCode using Java
 - 🎯 Focused on writing clean, efficient and scalable code
